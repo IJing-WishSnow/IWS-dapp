@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/IJing-WishSnow/dapp/test/interaction/contracts/token" // 导入通过abigen生成的ERC20合约Go绑定代码
+	"github.com/IJing-WishSnow/IWS-dapp/test/interaction/contracts/token" // 导入通过abigen生成的ERC20合约Go绑定代码
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind" // 提供合约调用选项，如交易发送者、Gas限制等
 	"github.com/ethereum/go-ethereum/common"            // 提供以太坊地址和哈希类型处理

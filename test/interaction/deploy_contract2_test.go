@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/IJing-WishSnow/dapp/test/interaction/contracts/store"
+	"github.com/IJing-WishSnow/IWS-dapp/test/interaction/contracts/store"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"

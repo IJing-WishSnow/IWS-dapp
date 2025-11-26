@@ -1,4 +1,4 @@
-module github.com/IJing-WishSnow/dapp
+module github.com/IJing-WishSnow/IWS-dapp
 
 go 1.24.0
 
